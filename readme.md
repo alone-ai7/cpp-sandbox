@@ -2,14 +2,6 @@
 
 Welcome to my personal **C++ Projects Sandbox**. This repository serves as a centralized workspace and portfolio for my independent C++ projects, experimental applications, and computer science implementations.
 
-## 📁 Repository Structure
-
-Each subdirectory is a self-contained C++ project with its own unique build configuration:
-
-* **[Project-Name-1](./Project-Name-1)** – A brief, punchy one-sentence description of what this project does.
-* **[Project-Name-2](./Project-Name-2)** – A brief, punchy one-sentence description of what this project does.
-* **[Project-Name-3](./Project-Name-3)** – A brief, punchy one-sentence description of what this project does.
-
 ## 🛠️ General Setup & Compilation
 
 Most projects inside this sandbox utilize **CMake** as the core build automation framework. 
